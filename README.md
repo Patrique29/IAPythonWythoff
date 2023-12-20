@@ -1,5 +1,2 @@
 # IAPythonWythoff
-# IAPythonWythoff
-# IAPythonWythoff
-# IAPythonWythoff
-# IAPythonWythoff
+Thibault Godin
